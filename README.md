@@ -62,4 +62,3 @@ In future projects, I want to use props if the project has multiple components t
 - Github - [ironcladmerc](https://github.com/ironcladmerc)
 - Frontend Mentor - [@ironcladmerc](https://www.frontendmentor.io/profile/ironcladmerc)
 - Twitter - [@MikeRay12345](https://www.twitter.com/@MikeRay12345)
-- Linked In - [Michael Harrison](https://www.linkedin.com/in/michael-r-harrison/)
