@@ -1,27 +1,65 @@
-# Next.js + Tailwind CSS Example
+# Frontend Mentor - NFT preview card component solution
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Deploy your own
+## Table of contents
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## How to use
+## Overview
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### The challenge
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+Users should be able to:
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+### Screenshot
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+![](./screenshot.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Next.js
+- Tailwindcss
+- Flexbox
+- Mobile-first workflow
+- [Next.js](https://nextjs.org/) - React framework
+
+### What I learned
+
+I learned how to make a tailwind styled component non-responsive so it looks the same on mobile and desktop, by using a fixed width style like w-96 in the top level div.
+
+### Continued development
+
+In future projects, I want to use props if the project has multiple components that are similar.
+
+### Useful resources
+
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation) - This is a must to have open while developing to look up what tailwind classes are available.
+
+## Author
+
+- Github - [ironcladmerc](https://github.com/ironcladmerc)
+- Frontend Mentor - [@ironcladmerc](https://www.frontendmentor.io/profile/ironcladmerc)
+- Twitter - [@MikeRay12345](https://www.twitter.com/@MikeRay12345)
+- Linked In - [Michael Harrison](https://www.linkedin.com/in/michael-r-harrison/)
